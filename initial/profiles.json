@@ -1,0 +1,39 @@
+{
+  "firstName": "Edson",
+  "lastName": "Vargas",
+  "age": 37,
+  "position": "SFE",
+  "team": "Ruler"
+}
+
+{
+  "firstName": "Ramón",
+  "lastName": "Vargas",
+  "age": 80,
+  "position": "SGP",
+  "team": "Ruler"
+}
+
+{
+  "firstName": "Amira",
+  "lastName": "Jurado",
+  "age": 80,
+  "position": "SGM",
+  "team": "Ruler"
+}
+
+{
+  "firstName": "Kimberlein",
+  "lastName": "Vargas",
+  "age": 36,
+  "position": "SPM",
+  "team": "Ruler"
+}
+
+{
+  "firstName": "Andrés",
+  "lastName": "Vargas",
+  "age": 36,
+  "position": "SWV",
+  "team": "Ruler"
+}
